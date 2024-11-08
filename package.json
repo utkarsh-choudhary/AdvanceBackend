@@ -1,0 +1,16 @@
+{
+  "name": "advancebackend",
+  "version": "1.0.0",
+  "description": "advance backend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "utkarsh chaudhary",
+  "license": "ISC"
+}
